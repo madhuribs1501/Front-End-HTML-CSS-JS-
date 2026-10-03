@@ -177,13 +177,16 @@ Inline Element
 34.time
 
 List in HTML
+-------------------
 Lists are used to represent real life list data.
 unordered
+-----------------
 <ul>
 <li> Apple </li>
 <li> Mango </li>
 </ul>
 ordered
+--------------------
 <ol>
 <li> Apple </li>
 <li> Mango </li>
@@ -211,10 +214,12 @@ Tables in HTML
 </table
 
 Caption in Tables
+------------------
 <caption> Student Data </caption 
 
 
 thead & tbody in Tables
+-----------------------
 <thead> to wrap table head 
 <tbody> to wrap table body
 
@@ -224,6 +229,7 @@ used to create cells which spans over multiple columns
 
 
 Form in HTML
+------------------------
 Forms are used to collect data from the user
 Eg- sign up/login/help requests/contact me
 <form>
